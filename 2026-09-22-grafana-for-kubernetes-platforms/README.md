@@ -3,7 +3,7 @@
 **[Grafana & Friends Austin — Autumn of Observability](https://www.meetup.com/grafana-friends-austin-meetup-group/events/316372961/)**
 · September 22, 2026 · Austin, TX
 
-- Slides: [PowerPoint](grafana-for-kubernetes-platforms.pptx)
+- Slides: [PDF](grafana-for-kubernetes-platforms.pdf) · [PowerPoint](grafana-for-kubernetes-platforms.pptx)
 - [LinkedIn post](https://www.linkedin.com/posts/goutham-kanags_i-just-finished-presenting-my-talk-on-grafana-ugcPost-7508382117324623873-Vtz4/)
 - [Talk page](https://gouthamhusky.github.io/blogsite/talks/grafana-for-kubernetes-platforms/)
 

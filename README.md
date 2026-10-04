@@ -1,6 +1,7 @@
 # talks
 
-Slides from talks I've given, one folder per talk, newest first.
+Slides from talks I've given, one folder per talk, newest first. Each folder
+has the deck as a PDF (opens in the browser) and the original `.pptx`.
 
 More about each talk, and what's coming up, at
 [gouthamhusky.github.io/blogsite/talks](https://gouthamhusky.github.io/blogsite/talks/).
@@ -12,5 +13,5 @@ More about each talk, and what's coming up, at
 
 ## adding a talk
 
-Make a `YYYY-MM-DD-short-title/` folder with the deck and a README (copy an
-existing one), then add a row to the table above.
+Make a `YYYY-MM-DD-short-title/` folder with the PDF, the source deck, and a
+README (copy an existing one), then add a row to the table above.
